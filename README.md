@@ -1,4 +1,4 @@
-![logo](https://github.com/kiranpal121/Kiranpal121/blob/main/github%20banner.png)
+![logo](https://github.com/kiranpal121/Kiranpal121/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Kiran Pal</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s">
